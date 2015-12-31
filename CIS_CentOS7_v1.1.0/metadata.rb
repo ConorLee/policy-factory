@@ -1,0 +1,7 @@
+name             'CIS_CentOS7_v1.1.0'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures CIS_CentOS7_v1.1.0'
+long_description 'Installs/Configures CIS_CentOS7_v1.1.0'
+version          '0.1.0'
