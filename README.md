@@ -27,7 +27,7 @@ Those wishing to contribute can do so by raising an issue and then creating a pu
 ## Team
 
 ### Project Leadership
- * Conor Lee (Project Founder)
+ * Conor Lee (Project Founder) [@LogicallyLee](https://twitter.com/LogicallyLee "Conor Lee's Twitter")
 
 ### Contributors
 
