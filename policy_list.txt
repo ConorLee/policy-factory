@@ -1,1 +1,1 @@
-CentOS7	PF_CIS_CentOS7_v1.1.0
+CentOS7	cookbooks/PF_CIS_CentOS7_v1.1.0
