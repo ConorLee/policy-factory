@@ -15,7 +15,7 @@
 case ENV['PF_LEVEL']
 when '0'
 when '1'
-  
+  include_recipe "PF_CIS_CentOS7_v1.1.0::2_os_services"
 when '2'
 else
   Chef::Log.warn("Policy level #{ENV['PF_LEVEL']} is not supported at this time.")
