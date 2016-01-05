@@ -24,14 +24,6 @@ Those wishing to contribute can do so by raising an issue and then creating a pu
 
 <B>Anyone contributing to this understands that they are contributing to an open source project and so are giving permission for their work to be used/distributed and redistributed without limitation.</B>
 
-## Team
-
-### Project Leadership
- * Conor Lee (Project Founder) [@LogicallyLee](https://twitter.com/LogicallyLee "Conor Lee's Twitter")
-
-### Contributors
-
-
 ## Stuff used to make this:
 
  * ChefDK
