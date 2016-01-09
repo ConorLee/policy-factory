@@ -17,6 +17,10 @@ when '0'
 when '1'
   include_recipe "PF_CIS_CentOS7_v1.1.0::2_os_services"
   include_recipe "PF_CIS_CentOS7_v1.1.0::3_special_purpose_services.rb"
+  include_recipe "PF_CIS_CentOS7_v1.1.0::4_network_config_and_firewall.rb"
+when '1c'
+  include_recipe "PF_CIS_CentOS7_v1.1.0::2_os_services"
+  include_recipe "PF_CIS_CentOS7_v1.1.0::3_special_purpose_services.rb"
   include_recipe "PF_CIS_CentOS7_v1.1.0::3_special_purpose_services_ns.rb"
   include_recipe "PF_CIS_CentOS7_v1.1.0::4_network_config_and_firewall.rb"
   include_recipe "PF_CIS_CentOS7_v1.1.0::4_network_config_and_firewall_ns.rb"
