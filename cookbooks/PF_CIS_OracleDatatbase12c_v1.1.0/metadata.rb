@@ -1,0 +1,7 @@
+name             'PF_CIS_OracleDatatbase12c_v1.1.0'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures PF_CIS_OracleDatatbase12c_v1.1.0'
+long_description 'Installs/Configures PF_CIS_OracleDatatbase12c_v1.1.0'
+version          '0.1.0'
