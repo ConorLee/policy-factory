@@ -38,6 +38,10 @@ end
 package 'talk-server' do
   action :remove
 end
+# 2.1.11 Remove xinetd (Scored)
+package 'xinetd' do
+  action :remove
+end
 # 2.1.12 Disable chargen-dgram (Scored)
 service 'chargen-dgram' do
   action [:stop, :disable]
